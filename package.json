@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GARGIZI/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GARGIZI/test/issues"
+  },
+  "homepage": "https://github.com/GARGIZI/test#readme",
+  "devDependencies": {
+    "gulp-group-css-media-queries": "^1.2.2"
+  }
+}
